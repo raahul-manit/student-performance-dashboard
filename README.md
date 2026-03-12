@@ -13,7 +13,8 @@ Features:
 Tools Used:
 Google Sheets, Pivot Tables, Data Visualization
 
-<img width="1920" height="1080" alt="Screenshot (457)" src="https://github.com/user-attachments/assets/d4809747-d48a-450b-bd86-5592788f2116" />
+<img width="1421" height="673" alt="Dashboard" src="https://github.com/user-attachments/assets/5287b5fb-8267-48e5-a1d6-356b2fc813cd" />
+
 
 Author:
 Rahul Patel
